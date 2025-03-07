@@ -59,6 +59,7 @@
 - [pot-app-recognize-plugin-baimiao](https://github.com/TechDecryptor/pot-app-recognize-plugin-baimiao) - 白描 文字识别插件
 - [pot-app-recognize-plugin-qwen-ocr](https://github.com/sun-i/pot-app-recognize-plugin-qwen-ocr) - 千问 文字识别插件
 - [pot-app-recognize-plugin-ollama](https://github.com/Strivy-ZSY/pot-app-recognize-plugin-ollama) - Ollama 文字识别插件
+- [pot-app-recognize-plugin-mistral](https://github.com/omegaduncan/pot-app-recognize-plugin-mistral) - Mistral 文字识别插件
 
 ## 语音合成
 

@@ -59,6 +59,7 @@ Pot app plugin collection from the community.
 - [pot-app-recognize-plugin-baimiao](https://github.com/TechDecryptor/pot-app-recognize-plugin-baimiao) - Baimiao recognize plugin
 - [pot-app-recognize-plugin-qwen-ocr](https://github.com/sun-i/pot-app-recognize-plugin-qwen-ocr) - Qwen recognize plugin
 - [pot-app-recognize-plugin-ollama](https://github.com/Strivy-ZSY/pot-app-recognize-plugin-ollama) - Ollama recognize plugin
+- [pot-app-recognize-plugin-mistral](https://github.com/omegaduncan/pot-app-recognize-plugin-mistral) - Mistral recognize plugin
 
 ## TTS
 
